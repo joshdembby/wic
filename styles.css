@@ -1,0 +1,33 @@
+div{
+    background-color: rgb(247, 232, 94);
+}
+
+
+
+h1{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+
+h3{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+
+.center{
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    width: 100px;
+}
